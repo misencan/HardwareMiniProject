@@ -7,3 +7,4 @@ After scanning the Wifi devices, the code would stop midway and give this error,
 
 Based on the bluetooh measurements and about 5 minutes of WiFi measurements, our Rasperry Pi seems to be successful at finding the nearby devices.
 However, we were not able to observe as many traffic cars as we thought. We believe this issue is related to location problems of our testing.
+We added several plots that shows our trials for WiFi measurements.
